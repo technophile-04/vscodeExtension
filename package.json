@@ -1,0 +1,21 @@
+{
+	"name": "cpprunner",
+	"displayName": "cpprunner",
+	"publisher": "technophile",
+	"description": "code runner",
+	"version": "0.0.1",
+	"engines": {
+		"vscode": "^1.67.0"
+	},
+	"categories": [
+		"Snippets"
+	],
+	"contributes": {
+		"snippets": [
+			{
+				"language": "cpp",
+				"path": "./snippets/15puzzle.code-snippets"
+			}
+		]
+	}
+}
