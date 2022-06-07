@@ -19,7 +19,20 @@
 			{
 				"language": "cpp",
 				"path": "./snippets/15puzzle.code-snippets"
+			},
+			{
+				"language": "cpp",
+				"path": "./snippets/kruskals.code-snippets"
 			}
 		]
+	},
+	"__metadata": {
+		"id": "dda78e23-92c8-49d6-b734-25783921583f",
+		"publisherId": "d9b7e34e-2699-4d31-8d4f-0d8f596dddcf",
+		"publisherDisplayName": "technophile",
+		"targetPlatform": "undefined",
+		"updated": false,
+		"isPreReleaseVersion": false,
+		"preRelease": false
 	}
 }
