@@ -7,7 +7,7 @@
 		"type": "git",
 		"url": "https://github.com/technophile-04/vscodeExtension"
 	},
-	"version": "0.0.1",
+	"version": "0.0.2",
 	"engines": {
 		"vscode": "^1.67.0"
 	},
@@ -17,12 +17,100 @@
 	"contributes": {
 		"snippets": [
 			{
-				"language": "cpp",
+				"language": "c",
 				"path": "./snippets/15puzzle.code-snippets"
 			},
 			{
 				"language": "cpp",
 				"path": "./snippets/kruskals.code-snippets"
+			},
+			{
+				"language": "c",
+				"path": "./snippets/bnbJob.code-snippets"
+			},
+			{
+				"language": "cpp",
+				"path": "./snippets/bnbJob.code-snippets"
+			},
+			{
+				"language": "c",
+				"path": "./snippets/bnbKnapsack.code-snippets"
+			},
+			{
+				"language": "cpp",
+				"path": "./snippets/bnbKnapsack.code-snippets"
+			},
+			{
+				"language": "c",
+				"path": "./snippets/backHamilton.code-snippets"
+			},
+			{
+				"language": "cpp",
+				"path": "./snippets/backHamilton.code-snippets"
+			},
+			{
+				"language": "c",
+				"path": "./snippets/backNQueen.code-snippets"
+			},
+			{
+				"language": "cpp",
+				"path": "./snippets/backNQueen.code-snippets"
+			},
+			{
+				"language": "c",
+				"path": "./snippets/backKnapsack.code-snippets"
+			},
+			{
+				"language": "cpp",
+				"path": "./snippets/backKnapsack.code-snippets"
+			},
+			{
+				"language": "c",
+				"path": "./snippets/backSumOfSubset.code-snippets"
+			},
+			{
+				"language": "cpp",
+				"path": "./snippets/backSumOfSubset.code-snippets"
+			},
+			{
+				"language": "c",
+				"path": "./snippets/dpJhonso2mac.code-snippets"
+			},
+			{
+				"language": "cpp",
+				"path": "./snippets/dpJhonso2mac.code-snippets"
+			},
+			{
+				"language": "c",
+				"path": "./snippets/greedyDijkstra.code-snippets"
+			},
+			{
+				"language": "cpp",
+				"path": "./snippets/greedyDijkstra.code-snippets"
+			},
+			{
+				"language": "c",
+				"path": "./snippets/greedyKruskals.code-snippets"
+			},
+			{
+				"language": "cpp",
+				"path": "./snippets/greedyKruskals.code-snippets"
+			},
+			{
+				"language": "c",
+				"path": "./snippets/dcLongIntegers.code-snippets"
+			},
+			{
+				"language": "cpp",
+				"path": "./snippets/dcLongIntegers.code-snippets"
+			},
+			{
+				"language": "c",
+				"path": "./snippets/dcStarseen.code-snippets"
+			},
+			{
+				"language": "cpp",
+				"path": "./snippets/dcStarseen.code-snippets"
 			}
 		]
 	},
