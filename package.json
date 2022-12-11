@@ -223,6 +223,62 @@
 			{
 				"language": "cpp",
 				"path": "./snippets/bloomFilter.code-snippets"
+			},
+			{
+				"language": "c",
+				"path": "./snippets/stackMultiPop.code-snippets"
+			},
+			{
+				"language": "cpp",
+				"path": "./snippets/stackMultiPop.code-snippets"
+			},
+			{
+				"language": "c",
+				"path": "./snippets/potentialStack.code-snippets"
+			},
+			{
+				"language": "cpp",
+				"path": "./snippets/potentialStack.code-snippets"
+			},
+			{
+				"language": "c",
+				"path": "./snippets/accountingStack.code-snippets"
+			},
+			{
+				"language": "cpp",
+				"path": "./snippets/accountingStack.code-snippets"
+			},
+			{
+				"language": "c",
+				"path": "./snippets/aggregateStack.code-snippets"
+			},
+			{
+				"language": "cpp",
+				"path": "./snippets/aggregateStack.code-snippets"
+			},
+			{
+				"language": "c",
+				"path": "./snippets/binaryCounter.code-snippets"
+			},
+			{
+				"language": "cpp",
+				"path": "./snippets/binaryCounter.code-snippets"
+			},
+			{
+				"language": "c",
+				"path": "./snippets/trie1.code-snippets"
+			},
+			{
+				"language": "cpp",
+				"path": "./snippets/trie1.code-snippets"
+			},
+			{
+				"language": "c",
+				"path": "./snippets/dynamicArray.code-snippets"
+			},
+			{
+				"language": "cpp",
+				"path": "./snippets/dynamicArray.code-snippets"
 			}
 		]
 	},
