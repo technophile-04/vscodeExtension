@@ -279,6 +279,22 @@
 			{
 				"language": "cpp",
 				"path": "./snippets/dynamicArray.code-snippets"
+			},
+			{
+				"language": "c",
+				"path": "./snippets/countMinSketchWith2Hash.code-snippets"
+			},
+			{
+				"language": "cpp",
+				"path": "./snippets/countMinSketchWith2Hash.code-snippets"
+			},
+			{
+				"language": "c",
+				"path": "./snippets/countMinSketchWith4hash.code-snippets"
+			},
+			{
+				"language": "cpp",
+				"path": "./snippets/countMinSketchWith4hash.code-snippets"
 			}
 		]
 	},
